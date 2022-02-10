@@ -951,6 +951,7 @@ body
     line-height: 140%;
     border: 1px solid rgb(236, 112, 226);
     transition: 0.3 ease-in-out;
+    color: #000;
 }
 .watch__button:hover{
     box-shadow: 5px 5px 0 0 rgb(122, 57, 108);
